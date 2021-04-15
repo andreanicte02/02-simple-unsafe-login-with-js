@@ -1,0 +1,343 @@
+
+body{
+    position: relative;
+    margin: 0;
+    font-family:"xxx",tahoma,verdana,arial,sans-serif;
+    display: inline-block;
+    width: 100%;
+       
+}
+
+
+
+div{
+    width: 1000px;
+}
+
+.hall{
+    background: #3b5998; 
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    display: block;
+    margin: 0;
+}
+
+
+.hleft{
+
+    width: 500px;
+    height: 100px;
+    float: left;
+
+}
+
+.hright{
+    
+    width: 500px;
+    height: 100px;
+    float: right;
+
+   
+    
+  
+}
+
+.font1{
+
+  
+    font-size: 40px;
+    color: whitesmoke;
+    padding-left: 50px;
+    
+}
+
+.col {
+    
+    width: 166px;
+    float: left;
+    position: relative;
+    bottom: -20px;
+   
+
+}
+
+
+.input1{
+   
+    width: 130px;
+    height: 20px;
+    float: left;
+    font-size: 12px;
+    background: #dfe3ee ;
+    border: 0;
+    outline: 0;
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+
+
+
+.input2{
+    width: 91px;
+    height: 21px;
+    margin-top: 20px;
+    float: left;
+    background:#486dbd ;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    color: whitesmoke;
+    border: 0.5px solid #2c4270;
+    border-radius: 2px;
+}
+
+.input2:hover{
+
+    background:#3b5998 ;
+
+}
+
+
+
+
+.label1{
+
+    float: left;
+    margin-bottom: 5px;
+    color: whitesmoke;
+    font-size: 10px;
+
+}
+
+.divbody{
+
+    width: 1000px;
+    height: 800px;
+    position: relative;
+    background-image: linear-gradient(#ffffff,#dfe1ee);
+    margin: 0;
+    display: block;
+
+}
+
+.divbodyleft{
+
+    width: 500px;
+    float: left;
+    margin: 0;
+    height: 820px;
+
+}
+
+.divbodyright{
+
+    width: 500px;
+    float: right;
+    margin: 0;
+    height: 820px;
+   
+
+}
+
+.divcontenleft{
+    width: 450px;
+    padding-left:50px ;
+    padding-top: 50px;
+    margin: 0;
+    display: block;
+
+}
+
+.divcontentright{
+    width: 450px;
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 30px;
+
+}
+
+.fontleftdiv{
+    color:#23355a ;
+    font-weight: 800;
+    font-size: 18px;
+    margin: 0;
+}
+
+img{
+    padding-top: 20px;
+    width: 402px;
+
+}
+
+.font-title{
+    font-size: 35px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.font-subtitle{
+    font-size: 20px;
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+.div-form{
+    padding-top: 10px;
+    display: inline-block;
+    width: 450px;
+    margin: 0;
+
+}
+
+
+.input-form-register1{
+    color: #8f92a3;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #b6b8c5;
+    font-size: 19px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+    
+}
+
+.input-form-register1:focus{
+    
+    color: black;
+    outline: 0 ;
+    
+
+}
+
+.input-form-register2{
+
+    color:#8f92a3;
+    width: 335px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #b6b8c5;
+    font-size: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+h3{
+    color: gray;
+}
+
+select{
+
+    width: 60px;
+    height: 30px;
+    border: 1px solid #b6b8c5;
+    background: white;
+    padding-left: 5px;
+    
+   
+}
+
+.img-help{
+
+    width: 18px;
+    height: 18px;
+    margin:0;
+    padding-top: 0px;
+   
+}
+
+.input-r{
+
+    width: 15px;
+    height: 15px;
+}
+
+.label-input-r{
+    font-size: 15px;
+}
+
+
+.label2{
+    
+    font-size: 8px;
+    color: #8f92a3;
+    width: 335px;
+
+    
+}
+
+#div-label2{
+    padding-top: 10px;
+    width:  335px;
+    margin:0;
+}
+
+#div-line{
+    border-bottom: solid 0.5px #d3d5e4;
+    width: 335px;
+    height: 20px;
+    margin-bottom: 5px;
+    
+}
+
+.button-register{
+
+    width: 150px;
+    height: 30px;
+    background:linear-gradient(#73ad6f,#389032);
+    margin-top: 20px;
+    border: solid 0.1px  #389032;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.button-register:hover{
+
+    background:linear-gradient(#86ca82,#389032);
+
+}
+
+h5{
+    margin: 0;
+    color: #54555c;
+}
+
+.dv4{
+    
+    width: 1000px;
+    color: #3b5998;
+    font-size: 15px;
+    
+}
+
+#div-c1{
+    width: 100%;
+    height: 100px;
+    background: #3b5998; 
+    padding-left: 35%;
+
+}
+
+#div-c2{
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(#ffffff,#dfe1ee);
+    padding-left: 35%;
+
+}
+
+#div-c3{
+    width: 100%;
+    padding-left: 35%;
+}
